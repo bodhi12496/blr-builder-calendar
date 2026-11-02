@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-02",
-  "source_note": "Researched from organiser pages and listings (Meetup, Luma, Devnovate, indiahackathons.com, HackathonRadar, HackIndia, Reskilll, insiderOne, dev.events).",
+  "source_note": "Researched from organiser pages and listings (Meetup, Luma, Devnovate, indiahackathons.com, HackathonRadar, HackIndia, Reskilll, insiderOne, dev.events, eChai, Atlassian Community, Devpost)..",
   "events": [
     {
       "id": "aws-reva",
@@ -600,7 +600,7 @@
         "Legal tech",
         "AI"
       ],
-      "url": "https://hackindia.org/hackathons",
+      "url": "https://hackindia.org/2026/ai-for-lawyers-hackathon",
       "why": "Registration closes Nov 11; build runs to Dec 1."
     },
     {
@@ -703,7 +703,7 @@
         "Real-time chat",
         "SDK"
       ],
-      "url": "https://reskilll.com/",
+      "url": "https://reskilll.com/hack/nexconn/",
       "why": "Build on Nexconn's real-time chat platform. Submit by Nov 22."
     },
     {
@@ -739,7 +739,7 @@
         "AI agents",
         "OpenAI"
       ],
-      "url": "https://hackindia.org/hackathons",
+      "url": "https://hackindia.org/2026/agentverse-26-supported-by-openai",
       "why": "Month-long virtual agent build, open worldwide."
     },
     {
@@ -936,6 +936,142 @@
       ],
       "url": "https://www.hackathonradar.com/database/hackathon/starforge-24-hour-national-level-hackathon-2026",
       "why": "Overnight national-level finale; teams from across India."
+    },
+    {
+      "id": "atlassian-team26-recap",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "From Amsterdam to Bangalore: Atlassian Team '26 Europe Community Recap",
+      "start": "2026-11-14",
+      "time": "10:00",
+      "endTime": "13:30",
+      "area": "Outer Ring Road",
+      "venue": "RBD Sarovar Portico, Outer Ring Road, Bengaluru 560037",
+      "host": "Atlassian Community Bangalore",
+      "company": false,
+      "cost": "Free RSVP (corporate ID required)",
+      "tags": [
+        "Atlassian",
+        "Jira",
+        "Product"
+      ],
+      "url": "https://ace.atlassian.com/events/details/atlassian-bangalore-presents-from-amsterdam-to-bangalore-atlassian-team-26-europe-community-recap/",
+      "why": "You will meet engineering and IT folks who run Jira and Confluence at Bengaluru companies, and hear what Atlassian announced at Team '26 Europe and how local teams plan to use it.",
+      "note": "Corporate employees only; valid company ID needed, no walk-ins, entry closes 11:00."
+    },
+    {
+      "id": "echai-demo-hsr",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "eChai Startup Demo Day: HSR Edition",
+      "start": "2026-11-28",
+      "time": "18:00",
+      "endTime": "20:00",
+      "area": "HSR Layout",
+      "venue": "Urban Vault, 477, 18th Cross Rd, Sector 1, HSR Layout, Bengaluru 560102",
+      "host": "eChai Ventures",
+      "company": false,
+      "tags": [
+        "Startups",
+        "Demos",
+        "Founders"
+      ],
+      "url": "https://echai.ventures/events/echai-startup-demo-day-in-bengaluru-hsr-edition-nov-28-2026",
+      "why": "Early-stage founders demo live products and take questions, so you see what is being built in HSR and can talk to the people building it."
+    },
+    {
+      "id": "echai-demo-kora",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "eChai Startup Demo Day: Koramangala Edition",
+      "start": "2026-11-28",
+      "time": "18:00",
+      "area": "Koramangala",
+      "venue": "Founder Startup House, Koramangala",
+      "host": "eChai Ventures",
+      "company": false,
+      "tags": [
+        "Startups",
+        "Demos",
+        "Founders"
+      ],
+      "url": "https://echai.ventures/events/echai-startup-demo-day-in-bengaluru-koramangala-edition-nov-28-2026",
+      "why": "A small room of Koramangala founders showing their products on screen, which makes it easy to ask how they think and swap contacts afterwards."
+    },
+    {
+      "id": "firebase-hybridai",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "#BuildHybridAI 2026 (Firebase AI Logic)",
+      "start": "2026-11-09",
+      "end": "2026-11-30",
+      "deadline": "2026-11-30",
+      "host": "Google (on Devpost)",
+      "company": true,
+      "cost": "Free",
+      "prize": "$10,000",
+      "tags": [
+        "Firebase",
+        "On-device AI",
+        "Gemini"
+      ],
+      "url": "https://firebasehybridaihackathon.devpost.com/",
+      "why": "Google-run challenge to build apps that mix on-device and cloud AI with Firebase AI Logic, a good way to learn the stack Google is pushing to mobile and web developers.",
+      "note": "Submissions close Nov 30, 14:00 PT (Dec 1, 03:30 IST)."
+    },
+    {
+      "id": "meta-vr-start",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Meta VR Start Developer Competition 2026",
+      "start": "2026-09-24",
+      "end": "2026-11-18",
+      "deadline": "2026-11-18",
+      "host": "Meta (on Devpost)",
+      "company": true,
+      "cost": "Free",
+      "prize": "$1,000,000 pool",
+      "tags": [
+        "VR",
+        "Hand tracking",
+        "Meta Horizon"
+      ],
+      "url": "https://start-developer-competition-26.devpost.com/",
+      "why": "Meta's own competition for hands-first VR apps, useful for seeing where Meta is taking its headset platform and getting into its Start developer program.",
+      "note": "Requires Meta Horizon Start program membership; some countries excluded, check the rules for India eligibility."
+    },
+    {
+      "id": "iiitb-lowlevel",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Low-Level Hackathon",
+      "deadline": "2026-11-08",
+      "host": "IIIT Bangalore",
+      "prize": "₹22,500",
+      "tags": [
+        "Systems",
+        "Low-level"
+      ],
+      "url": "https://www.nextknock.in/hackathons/low-level-hackathon-3e2a6794",
+      "why": "An online systems-programming hackathon from IIIT Bangalore, where you will meet students who like working close to the hardware."
+    },
+    {
+      "id": "acharya-ctf",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "Capture The Flag",
+      "start": "2026-10-17",
+      "end": "2026-11-19",
+      "area": "Soladevanahalli",
+      "venue": "Acharya Institute of Technology",
+      "host": "Acharya Institute of Technology",
+      "prize": "~$72",
+      "tags": [
+        "Security",
+        "CTF"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/capture-the-flag-2026-4dd2",
+      "why": "A campus CTF where you can meet student security enthusiasts and test your own skills."
     }
   ]
 }
