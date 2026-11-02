@@ -1,0 +1,941 @@
+{
+  "updated": "2026-11-02",
+  "source_note": "Researched from organiser pages and listings (Meetup, Luma, Devnovate, indiahackathons.com, HackathonRadar, HackIndia, Reskilll, insiderOne, dev.events).",
+  "events": [
+    {
+      "id": "aws-reva",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "AWS Student Community Day Bengaluru 2026",
+      "start": "2026-11-05",
+      "time": "08:30",
+      "area": "Yelahanka",
+      "venue": "REVA University",
+      "host": "AWS Student Builder Group, REVA University",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Students"
+      ],
+      "url": "https://www.meetup.com/aws-sbg-at-reva-university/events/316557754/",
+      "why": "Large AWS community crowd (650+ RSVPs). Good for meeting AWS community builders and students heading into cloud roles."
+    },
+    {
+      "id": "aws-bit",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "AWS Student Community Day Bengaluru",
+      "start": "2026-11-06",
+      "time": "09:00",
+      "area": "V V Puram",
+      "venue": "Bangalore Institute of Technology, KR Road",
+      "host": "AWS Student Builder Group, BIT",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Cloud",
+        "AWS",
+        "Students"
+      ],
+      "url": "https://www.meetup.com/aws-sbg-at-bangalore-institute-of-technology/events/316897632/",
+      "why": "950 attendees signed up; the event is waitlisted, so join the waitlist early.",
+      "note": "Waitlist only at time of research."
+    },
+    {
+      "id": "cyber-conf",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "Cybersecurity Conference 2026: Bangalore Chapter",
+      "start": "2026-11-07",
+      "time": "09:30",
+      "area": "Marathahalli",
+      "venue": "Bloom Hub, Marathahalli",
+      "host": "Cybersecurity Conference",
+      "company": false,
+      "cost": null,
+      "tags": [
+        "Security",
+        "AI risk",
+        "CISO"
+      ],
+      "url": "https://allevents.in/bangalore/cybersecurity-conference-2026-bangalore-chapter/3900030700553735",
+      "why": "Security leaders and CISOs discussing AI-era risk, identity, cloud and data security."
+    },
+    {
+      "id": "outgeek",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "Women in Tech Bengaluru: OutGeekWomen",
+      "start": "2026-11-12",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "OutGeekWomen",
+      "company": false,
+      "cost": null,
+      "tags": [
+        "Women in tech",
+        "Careers"
+      ],
+      "url": "https://www.eventbrite.com/d/india--bangalore/tech-conferences/",
+      "why": "Community of women engineers and leaders; strong for mentorship and peer support."
+    },
+    {
+      "id": "hwb4",
+      "kind": "agenda",
+      "type": "hackathon",
+      "title": "Hack With Bangalore 4.0",
+      "start": "2026-11-14",
+      "area": "Bengaluru",
+      "venue": "Microsoft Office, Bengaluru",
+      "host": "Devnovate × Hack With India",
+      "company": true,
+      "cost": null,
+      "deadline": "2026-11-07",
+      "tags": [
+        "AI",
+        "8-hour",
+        "Teams of 2–6",
+        "Students"
+      ],
+      "url": "https://devnovate.co/event/hack-with-bangalore-40",
+      "why": "8-hour build day inside Microsoft's office with ~14,700 registrants. Selection happens, so a strong GitHub helps.",
+      "note": "Listed as student-focused on HackathonRadar; Devnovate lists all skill levels. Bring your own laptop."
+    },
+    {
+      "id": "ubucon",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "UbuCon India 2026",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "time": "08:00",
+      "area": "Basavanagudi",
+      "venue": "B.M.S. College of Engineering",
+      "host": "Ubuntu India LoCo (Canonical community)",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Linux",
+        "Open source"
+      ],
+      "url": "https://events.canonical.com/event/157/",
+      "why": "Volunteer-run open-source crowd: maintainers, Linux users and Canonical folks. Easy place to start contributing."
+    },
+    {
+      "id": "genai-iiitb",
+      "kind": "agenda",
+      "type": "workshop",
+      "title": "Mastering Generative & Agentic AI Workshop",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "time": "10:00",
+      "endTime": "17:00",
+      "area": "Electronic City",
+      "venue": "IIIT Bangalore, Electronic City Phase 1",
+      "host": "Workshop on AllEvents",
+      "company": false,
+      "cost": "From ₹2,500",
+      "tags": [
+        "LLMs",
+        "RAG",
+        "LangGraph",
+        "Hands-on"
+      ],
+      "url": "https://allevents.in/bangalore/mastering-generative-and-agentic-ai/4100030692400736",
+      "why": "Two hands-on days: transformers, RAG with LangChain, LangGraph agents, deploying on Hugging Face. Certificate included."
+    },
+    {
+      "id": "producttank",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "Agentic AI in Practice: Building, Evaluating and Earning Trust",
+      "start": "2026-11-14",
+      "time": "10:00",
+      "area": "Bengaluru",
+      "venue": "Venue on Meetup page",
+      "host": "ProductTank Bengaluru",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Product",
+        "AI agents",
+        "Evals"
+      ],
+      "url": "https://www.meetup.com/producttank-bangalore/events/317100600/",
+      "why": "PMs and product leaders (~390 RSVPs). Best pick for understanding why teams build what they build."
+    },
+    {
+      "id": "bts",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "Bengaluru Tech Summit 2026 (29th edition)",
+      "start": "2026-11-17",
+      "end": "2026-11-19",
+      "time": "09:00",
+      "endTime": "18:00",
+      "area": "Tumkur Road",
+      "venue": "BIEC, Tumkur Road (10th Mile)",
+      "host": "Govt. of Karnataka (Dept. of Electronics, IT, BT and S&T)",
+      "company": false,
+      "cost": "Paid (delegate passes)",
+      "tags": [
+        "AI & Beyond",
+        "Startups",
+        "Deep tech",
+        "Expo"
+      ],
+      "url": "https://www.bengalurutechsummit.com/",
+      "why": "Asia's largest tech summit: 1,600+ exhibitors, ~1,000 startups. Walk the startup pavilion and ask founders for demos.",
+      "note": "BIEC is far north-west of the city. Allow 60–90 minutes from ORR/Whitefield."
+    },
+    {
+      "id": "grpconf",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "gRPConf India 2026",
+      "start": "2026-11-18",
+      "area": "Bengaluru",
+      "venue": "Venue on official page",
+      "host": "Linux Foundation",
+      "company": false,
+      "cost": "$40 (late rate)",
+      "tags": [
+        "gRPC",
+        "Microservices"
+      ],
+      "url": "https://events.linuxfoundation.org/grpconf-india/register",
+      "why": "Small, deep backend crowd: engineers running gRPC in production and CNCF maintainers."
+    },
+    {
+      "id": "droidcon",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "droidcon India 2026",
+      "start": "2026-11-20",
+      "time": "09:00",
+      "endTime": "18:00",
+      "area": "Central",
+      "venue": "The Conrad Bengaluru",
+      "host": "droidcon",
+      "company": false,
+      "cost": "Paid",
+      "tags": [
+        "Android",
+        "Mobile"
+      ],
+      "url": "https://india.droidcon.com/",
+      "why": "60 speakers including engineers from Google, Blinkit and BookMyShow. Ideal for mobile engineers."
+    },
+    {
+      "id": "pitch9",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "Bengaluru Pitch Circuit 9",
+      "start": "2026-11-20",
+      "time": "18:00",
+      "endTime": "21:00",
+      "area": "Bengaluru",
+      "venue": "BHIVE (venue on Luma)",
+      "host": "BHIVE Startup Labs × The Startup Tales",
+      "company": true,
+      "cost": null,
+      "tags": [
+        "Startups",
+        "Pitching",
+        "Investors"
+      ],
+      "url": "https://luma.com/BHIVE_STARTUP_LABS",
+      "why": "Founders pitch live to investors. Great for learning startup motives and business models."
+    },
+    {
+      "id": "agentdays",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "Agent Builders Community Day Bengaluru",
+      "start": "2026-11-21",
+      "time": "08:30",
+      "area": "Central",
+      "venue": "Jawaharlal Nehru Planetarium",
+      "host": "Agent Builders Community (UiPath)",
+      "company": true,
+      "cost": "Free",
+      "tags": [
+        "AI agents",
+        "Automation",
+        "Hands-on"
+      ],
+      "url": "https://luma.com/a74bdk96",
+      "why": "A hands-on working day on agentic automation, with UiPath's roadmap and real customer stories."
+    },
+    {
+      "id": "ksug",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "KSUG.AI India #12 meetup @ HPE",
+      "start": "2026-11-21",
+      "time": "09:00",
+      "area": "Bengaluru",
+      "venue": "Hewlett Packard Enterprise office",
+      "host": "AI XCHANGE / KSUG.AI",
+      "company": true,
+      "cost": "Free",
+      "tags": [
+        "Kubernetes",
+        "AI infra",
+        "FinOps"
+      ],
+      "url": "https://www.meetup.com/ai-xchange/events/316920742/",
+      "why": "Hosted inside HPE. Kubernetes and AI-infra engineers; discount codes for CNCF certifications are usually shared."
+    },
+    {
+      "id": "llmops",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "LLMOps in Production: Observability, Evals & Guardrails",
+      "start": "2026-11-21",
+      "time": "09:30",
+      "area": "Bengaluru",
+      "venue": "Venue on Meetup page",
+      "host": "Future of Data: Bangalore",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "LLMOps",
+        "Evals",
+        "Data"
+      ],
+      "url": "https://www.meetup.com/futureofdata-bangalore/events/317058082/",
+      "why": "Practitioners shipping LLM apps share what breaks in production (230+ RSVPs)."
+    },
+    {
+      "id": "agentversity",
+      "kind": "agenda",
+      "type": "hackathon",
+      "title": "Agentversity AI Hackathon: Build the Agentic Future",
+      "start": "2026-11-21",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "AgentVersity",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Agentic AI",
+        "In person"
+      ],
+      "url": "https://indiahackathons.com/events/agentversity-ai-hackathon-build-the-agentic-future",
+      "why": "One-day agent build. Good for finding collaborators who are already building agents."
+    },
+    {
+      "id": "beyond9to5",
+      "kind": "agenda",
+      "type": "hackathon",
+      "title": "Beyond 9to5 Buildathon Bengaluru",
+      "start": "2026-11-21",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "EtriqAI",
+      "company": true,
+      "cost": "Free",
+      "tags": [
+        "Buildathon",
+        "Working professionals"
+      ],
+      "url": "https://indiahackathons.com/events/beyond-9to5-buildathon-bengaluru-21-nov-2026",
+      "why": "Aimed at people with day jobs; 150–200 selected participants, so the room is small enough to meet everyone."
+    },
+    {
+      "id": "agora",
+      "kind": "agenda",
+      "type": "hackathon",
+      "title": "Build with Agora: Voice AI Hackathon",
+      "start": "2026-11-21",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "Agora × KNOTiC",
+      "company": true,
+      "cost": "Free",
+      "prize": "$3,000",
+      "tags": [
+        "Voice AI",
+        "Conversational AI",
+        "250+ builders"
+      ],
+      "url": "https://indiahackathons.com/events/build-with-agora-bengaluru-2026-voice-ai-hackathon",
+      "why": "Company-run: Agora's developer relations team mentors teams on its real-time voice SDK."
+    },
+    {
+      "id": "wordcamp",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "WordCamp Bengaluru 2026",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "area": "Central",
+      "venue": "Bangalore International Centre (Sat) · St Joseph's Boys' High School (Sun)",
+      "host": "WordPress community volunteers",
+      "company": false,
+      "cost": "Low-cost tickets",
+      "tags": [
+        "WordPress",
+        "Web",
+        "Open source"
+      ],
+      "url": "https://bengaluru.wordcamp.org/tickets/",
+      "why": "Saturday is Contributor Day, the easiest way to meet maintainers by working alongside them.",
+      "note": "Some listings give different dates; confirm on the WordCamp site."
+    },
+    {
+      "id": "fluttercon",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "flutterCon India 2026",
+      "start": "2026-11-21",
+      "area": "Bengaluru",
+      "venue": "Venue on official page",
+      "host": "droidcon team",
+      "company": false,
+      "cost": "Paid",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Cross-platform"
+      ],
+      "url": "https://india.fluttercon.dev/",
+      "why": "Flutter and Dart developers building cross-platform apps."
+    },
+    {
+      "id": "apify",
+      "kind": "agenda",
+      "type": "hackathon",
+      "title": "AI Tools that Earn: a hackathon by Apify",
+      "start": "2026-11-22",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "Apify",
+      "company": true,
+      "cost": "Free",
+      "prize": "₹75,000",
+      "tags": [
+        "AI agents",
+        "Web scraping",
+        "Monetisation"
+      ],
+      "url": "https://indiahackathons.com/events/ai-tools-that-earn-a-hackathon-by-apify",
+      "why": "Build AI tools you can publish and charge for on Apify's store. Apify's own team runs it."
+    },
+    {
+      "id": "civo",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "Civo Navigate India 2026",
+      "start": "2026-11-24",
+      "time": "08:00",
+      "area": "Whitefield",
+      "venue": "Sheraton Grand Bengaluru Whitefield",
+      "host": "Civo",
+      "company": true,
+      "cost": null,
+      "tags": [
+        "Cloud",
+        "AI",
+        "Data sovereignty"
+      ],
+      "url": "https://allevents.in/bangalore/civo-navigate-india-2026/80003129358138",
+      "why": "Cloud company's own event: product previews and networking with cloud and platform leaders."
+    },
+    {
+      "id": "wad",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "WeAreDevelopers Conference India 2026",
+      "start": "2026-11-25",
+      "end": "2026-11-26",
+      "area": "Tumkur Road",
+      "venue": "BIEC, Tumkur Road",
+      "host": "WeAreDevelopers × Entire",
+      "company": false,
+      "cost": "Paid · code INDIA15",
+      "tags": [
+        "AI engineering",
+        "Agents",
+        "Platforms",
+        "Leadership"
+      ],
+      "url": "https://www.wearedevelopers.com/conference-india",
+      "why": "3,000+ developers and 100+ speakers from Stripe, Atlassian, Adobe, JPMorgan Chase, Booking and more.",
+      "note": "Code INDIA15 at checkout is offered by the organiser. BIEC: allow extra travel time."
+    },
+    {
+      "id": "ngt",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "Next Generation Testing & AI Bangalore",
+      "start": "2026-11-26",
+      "time": "08:30",
+      "area": "Central",
+      "venue": "Radisson Blu Atria",
+      "host": "Next Generation Testing (with Indian Testing Awards)",
+      "company": false,
+      "cost": "Paid",
+      "tags": [
+        "Testing",
+        "QA",
+        "AI"
+      ],
+      "url": "https://www.eventbrite.com/d/india--bangalore/hackathon-events/",
+      "why": "QA and test leaders exploring AI-powered testing."
+    },
+    {
+      "id": "messyux",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "The Messy UX Conference 2026",
+      "start": "2026-11-28",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "Messy UX",
+      "company": false,
+      "cost": null,
+      "tags": [
+        "UX",
+        "Design"
+      ],
+      "url": "https://dev.events/AS/IN/Bengaluru/tech",
+      "why": "Designers and researchers. Good for understanding product thinking from the user side."
+    },
+    {
+      "id": "lakehouse",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "Open Lakehouse & AI",
+      "start": "2026-11-28",
+      "time": "09:30",
+      "endTime": "13:30",
+      "area": "Koramangala",
+      "venue": "80 Feet Rd, 3rd Block, Koramangala",
+      "host": "Future of Data: Bangalore",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Data engineering",
+        "Lakehouse",
+        "AI"
+      ],
+      "url": "https://www.meetup.com/futureofdata-bangalore/events/317087004/",
+      "why": "Data engineers talking open table formats and AI. Breakfast from 9:30, talks from 10."
+    },
+    {
+      "id": "gains",
+      "kind": "agenda",
+      "type": "conference",
+      "title": "Great International AI Native Summit (GAINS)",
+      "start": "2026-12-09",
+      "end": "2026-12-10",
+      "area": "Bengaluru",
+      "venue": "Venue to be announced",
+      "host": "Saltmarch (organiser of GIDS)",
+      "company": false,
+      "cost": "Paid",
+      "tags": [
+        "Coding agents",
+        "Evals",
+        "AI in production"
+      ],
+      "url": "https://conferenceindex.org/event/great-international-ai-native-summit-gains-2026-december-bengaluru-in",
+      "why": "Engineering-first AI summit: orchestration, evaluation, observability and governance of AI systems."
+    },
+    {
+      "id": "pitch10",
+      "kind": "agenda",
+      "type": "meetup",
+      "title": "Bengaluru Pitch Circuit 10",
+      "start": "2026-12-18",
+      "time": "18:00",
+      "endTime": "21:00",
+      "area": "Indiranagar",
+      "venue": "BHIVE Platinum Address Maker, Indiranagar",
+      "host": "BHIVE Startup Labs × The Startup Tales",
+      "company": true,
+      "cost": null,
+      "tags": [
+        "Startups",
+        "Pitching",
+        "Investors"
+      ],
+      "url": "https://luma.com/BHIVE_STARTUP_LABS",
+      "why": "Founders and investors in one room. Go a second time and you'll already know people."
+    },
+    {
+      "id": "vibecode",
+      "kind": "agenda",
+      "type": "hackathon",
+      "title": "AI Vibecoding Hackathon",
+      "start": "2027-02-21",
+      "end": "2027-02-22",
+      "area": "Bengaluru",
+      "venue": "Venue on event page",
+      "host": "Mahboob (community organiser)",
+      "company": false,
+      "cost": "Free",
+      "tags": [
+        "Vibe coding",
+        "AI"
+      ],
+      "url": "https://indiahackathons.com/events/ai-vibecoding-hackathon-2026",
+      "why": "Two-day build. Register early; it's one of the few already announced for 2027."
+    },
+    {
+      "id": "aiforlaw",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "AI for Lawyers Hackathon",
+      "start": "2026-11-02",
+      "end": "2026-12-01",
+      "deadline": "2026-11-11",
+      "host": "HackIndia",
+      "cost": "Free",
+      "tags": [
+        "Legal tech",
+        "AI"
+      ],
+      "url": "https://hackindia.org/hackathons",
+      "why": "Registration closes Nov 11; build runs to Dec 1."
+    },
+    {
+      "id": "paypal",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "PayPal AI Hackathon",
+      "deadline": "2026-11-12",
+      "host": "PayPal",
+      "company": true,
+      "prize": "$67,500",
+      "tags": [
+        "Fintech",
+        "AI"
+      ],
+      "url": "https://www.startupgrantsindia.com/competitions/mode/online",
+      "why": "Company-run, large prize pool, open to developers in India. Submissions due Nov 12."
+    },
+    {
+      "id": "cfab",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Code for a Billion: Bharat Agentic-AI Hackathon",
+      "deadline": "2026-11-15",
+      "host": "Code for India",
+      "cost": "Free",
+      "prize": "₹18 lakh",
+      "tags": [
+        "AI agents",
+        "Social impact",
+        "Open source"
+      ],
+      "url": "https://codeforindia.org/hackathon",
+      "why": "Deploy and open-source your project by Nov 15. Solo or team; each participant gets free tokens on AgentFoundry."
+    },
+    {
+      "id": "ugreen",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "UGREEN Hackathon 2026 on AI NAS",
+      "deadline": "2026-11-16",
+      "host": "UGREEN (Devpost)",
+      "company": true,
+      "cost": "Free",
+      "prize": "₹38.6 lakh",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Devpost"
+      ],
+      "url": "https://www.insiderone.in/hackathons",
+      "why": "Company hackathon on its AI storage product. Register by Nov 16."
+    },
+    {
+      "id": "bowebsite",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "BuildyourOwnWebsite",
+      "start": "2026-11-16",
+      "end": "2026-11-25",
+      "deadline": "2026-11-25",
+      "host": "Devpost",
+      "cost": "Free",
+      "prize": "₹15,000",
+      "tags": [
+        "Web",
+        "Beginner friendly"
+      ],
+      "url": "https://indiahackathons.com/events/buildyourownwebsite",
+      "why": "Beginner-friendly website build with a workshop component."
+    },
+    {
+      "id": "orbix",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Orbix: 48-Hour Global Open Innovation Hackathon",
+      "deadline": "2026-11-20",
+      "host": "Makers Need More (Unstop)",
+      "cost": "Free",
+      "prize": "₹12.5 lakh",
+      "tags": [
+        "Open innovation",
+        "48 hours"
+      ],
+      "url": "https://www.insiderone.in/hackathons",
+      "why": "Global participants, so a good way to meet builders outside India."
+    },
+    {
+      "id": "nexconn",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Nexconn Build Challenge 2026",
+      "start": "2026-10-23",
+      "end": "2026-11-22",
+      "deadline": "2026-11-22",
+      "host": "Nexconn (Reskilll)",
+      "company": true,
+      "prize": "$5,000",
+      "tags": [
+        "Real-time chat",
+        "SDK"
+      ],
+      "url": "https://reskilll.com/",
+      "why": "Build on Nexconn's real-time chat platform. Submit by Nov 22."
+    },
+    {
+      "id": "aditya",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "HackWithAditya",
+      "start": "2026-10-16",
+      "end": "2026-11-25",
+      "deadline": "2026-11-25",
+      "host": "Aditya University",
+      "cost": "Free",
+      "prize": "₹5 lakh",
+      "tags": [
+        "AI",
+        "Hybrid",
+        "Students"
+      ],
+      "url": "https://indiahackathons.com/events/hackwithaditya",
+      "why": "Hybrid national hackathon with a large prize pool."
+    },
+    {
+      "id": "agentverse",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "AgentVerse '26 (supported by OpenAI)",
+      "start": "2026-10-30",
+      "end": "2026-11-30",
+      "deadline": "2026-11-30",
+      "host": "HackIndia",
+      "cost": "Free",
+      "tags": [
+        "AI agents",
+        "OpenAI"
+      ],
+      "url": "https://hackindia.org/hackathons",
+      "why": "Month-long virtual agent build, open worldwide."
+    },
+    {
+      "id": "spectov",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "SpectoV National Hackathon (SNH '26)",
+      "deadline": "2026-11-30",
+      "host": "SpectoV (Internshala)",
+      "company": true,
+      "prize": "₹2 lakh",
+      "tags": [
+        "National"
+      ],
+      "url": "https://www.nextknock.in/hackathons",
+      "why": "National online hackathon; register by Nov 30."
+    },
+    {
+      "id": "cortensor",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Cortensor Hackathon #5",
+      "start": "2026-10-16",
+      "end": "2026-12-19",
+      "deadline": "2026-12-19",
+      "host": "Cortensor",
+      "company": true,
+      "tags": [
+        "AI",
+        "Decentralised compute"
+      ],
+      "url": "https://dev.events/hackathons/AS/IN/Bangalore",
+      "why": "Long-running build window, so it fits around a full-time job."
+    },
+    {
+      "id": "cosmo",
+      "kind": "online",
+      "type": "hackathon",
+      "title": "Cosmo Hacks 2026",
+      "start": "2026-12-19",
+      "end": "2026-12-21",
+      "deadline": "2026-12-19",
+      "host": "Devpost",
+      "cost": "Free",
+      "prize": "$300",
+      "tags": [
+        "AI",
+        "Students",
+        "Weekend"
+      ],
+      "url": "https://indiahackathons.com/events/cosmo-hacks-2026",
+      "why": "Short weekend online hackathon over the holidays."
+    },
+    {
+      "id": "vidyut",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "Vidyutspanda: Hardware Hackathon",
+      "start": "2026-10-26",
+      "end": "2026-11-11",
+      "area": "Kumaraswamy Layout",
+      "venue": "Dayananda Sagar University",
+      "host": "DSU",
+      "tags": [
+        "Hardware",
+        "IoT"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/vidyutspanda-hardware-hackathon-2026",
+      "why": "One of the few hardware-focused hackathons in the city."
+    },
+    {
+      "id": "colossus",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "Colossus 3.O",
+      "start": "2026-10-08",
+      "end": "2026-11-14",
+      "area": "Mallathahalli",
+      "venue": "Dr. Ambedkar Institute of Technology",
+      "host": "Dr. AIT",
+      "prize": "~$1K",
+      "tags": [
+        "Cloud",
+        "IoT",
+        "Edtech"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/colossus-3-o-2026",
+      "why": "Finale in the sports complex; biggest prize among campus events."
+    },
+    {
+      "id": "p2p",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "Prompt to Product",
+      "start": "2026-10-17",
+      "end": "2026-11-19",
+      "area": "Soladevanahalli",
+      "venue": "Acharya Institute of Technology",
+      "host": "Acharya",
+      "tags": [
+        "AI"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/prompt-to-product-2026",
+      "why": "AI-first build track inside Acharya's tech fest."
+    },
+    {
+      "id": "bighack",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "The Big Hack 2.0",
+      "start": "2026-10-16",
+      "end": "2026-11-21",
+      "area": "Soladevanahalli",
+      "venue": "Acharya Institute of Technology",
+      "host": "Acharya",
+      "prize": "~$600",
+      "tags": [
+        "Healthtech",
+        "Cloud"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/the-big-hack-2-0-2026",
+      "why": "Flagship hackathon at Acharya."
+    },
+    {
+      "id": "bits2wave",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "Bits2Wave",
+      "start": "2026-10-08",
+      "end": "2026-11-22",
+      "area": "Yelahanka",
+      "venue": "BMS Institute of Technology & Management",
+      "host": "BMSITM",
+      "prize": "~$720",
+      "tags": [
+        "IoT",
+        "Cloud"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/bits2wave-2026",
+      "why": "In-person finale at BMSITM."
+    },
+    {
+      "id": "devforge",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "The DevForge Hackathon",
+      "start": "2026-10-02",
+      "end": "2026-11-27",
+      "area": "Electronic City",
+      "venue": "Scaler School of Technology (new campus, Doddathoguru)",
+      "host": "Scaler School of Technology",
+      "prize": "~$600",
+      "tags": [
+        "Cloud",
+        "Edtech"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/the-devforge-hackathon-2026",
+      "why": "Scaler's own hackathon; sharp student coders."
+    },
+    {
+      "id": "algosstrike",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "AlgoSSTrike",
+      "start": "2026-10-02",
+      "end": "2026-11-28",
+      "area": "Electronic City",
+      "venue": "Scaler School of Technology",
+      "host": "Scaler School of Technology",
+      "mode": "hybrid",
+      "prize": "~$240",
+      "tags": [
+        "Algorithms",
+        "Data science",
+        "Hybrid"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/algosstrike-2026",
+      "why": "Hybrid algorithmic challenge; online rounds then on campus."
+    },
+    {
+      "id": "starforge",
+      "kind": "campus",
+      "type": "hackathon",
+      "title": "StarForge: 24-Hour National Level Hackathon",
+      "start": "2026-10-23",
+      "end": "2026-12-13",
+      "area": "Yelahanka",
+      "venue": "BMS Institute of Technology & Management",
+      "host": "BMSITM",
+      "prize": "~$780",
+      "tags": [
+        "24 hours",
+        "National"
+      ],
+      "url": "https://www.hackathonradar.com/database/hackathon/starforge-24-hour-national-level-hackathon-2026",
+      "why": "Overnight national-level finale; teams from across India."
+    }
+  ]
+}
